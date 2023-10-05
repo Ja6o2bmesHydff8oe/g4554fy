@@ -4,3 +4,4 @@ Refactor codebase with Z [gyrkAW] line 7.1
 Refactor codebase with Z [p28kUC] line 13.1
 Update documentation [80qCWN] line 14.1
 Fix issue in Y [dq288X] line 16.2
+Fix issue in Y [RujALV] line 17.1
