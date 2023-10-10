@@ -5,3 +5,4 @@ Add feature for X [VfzJIW] line 9.2
 Add feature for X [f5LiMR] line 10.1
 Refactor codebase with Z [KWQDaq] line 12.1
 Refactor codebase with Z [p28kUC] line 13.3
+Update documentation [80qCWN] line 14.2
