@@ -3,3 +3,4 @@ Update documentation [VliZxJ] line 5.1
 Fix issue in Y [2T619K] line 8.1
 Add feature for X [VfzJIW] line 9.2
 Add feature for X [f5LiMR] line 10.1
+Refactor codebase with Z [KWQDaq] line 12.1
